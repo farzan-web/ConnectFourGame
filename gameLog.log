@@ -1,0 +1,359 @@
+2021-02-25 21:38:28-249 INFO  Start APP
+2021-02-25 21:38:28-252 INFO  GameController initialize
+2021-02-25 21:38:28-253 INFO  Create GameController
+2021-02-25 21:38:31-385 INFO  Create player RED from PlayerFactory class
+2021-02-25 21:38:31-385 INFO  Initial Player class
+2021-02-25 21:38:31-385 INFO  Create and Add first Player
+2021-02-25 21:38:33-663 INFO  Create player GREEN from PlayerFactory class
+2021-02-25 21:38:33-664 INFO  Initial Player class
+2021-02-25 21:38:33-664 INFO  Create and Add second Player
+2021-02-25 21:38:33-665 INFO  GameBoard created with NODISK in it
+2021-02-25 21:38:33-665 INFO  Start New Game
+2021-02-25 21:38:33-665 INFO  MainGame started
+2021-02-25 21:38:33-665 INFO  Print game board
+2021-02-25 21:38:33-667 INFO  Set next player turn
+2021-02-25 21:38:33-667 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:33-668 INFO  Get column number from player RED
+2021-02-25 21:38:34-573 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-574 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-574 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-574 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-574 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-574 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-574 INFO  Print game board
+2021-02-25 21:38:34-576 INFO  Check if game is ended
+2021-02-25 21:38:34-576 INFO  Check if game is Tie
+2021-02-25 21:38:34-576 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-576 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-576 INFO  Check if a player won the game
+2021-02-25 21:38:34-576 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-576 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-576 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-576 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-577 INFO  Set next player turn
+2021-02-25 21:38:34-577 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-577 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-577 INFO  Check if column 4 is Full
+2021-02-25 21:38:34-577 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-577 INFO  Check if column 4 is Full
+2021-02-25 21:38:34-577 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-577 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-577 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-577 INFO  Print game board
+2021-02-25 21:38:34-579 INFO  Check if game is ended
+2021-02-25 21:38:34-579 INFO  Check if game is Tie
+2021-02-25 21:38:34-579 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-579 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-579 INFO  Check if a player won the game
+2021-02-25 21:38:34-579 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-579 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-579 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-579 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-579 INFO  Set next player turn
+2021-02-25 21:38:34-580 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:34-580 INFO  Get column number from player RED
+2021-02-25 21:38:34-580 INFO  Check if column 1 is Full
+2021-02-25 21:38:34-580 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-580 INFO  Check if column 1 is Full
+2021-02-25 21:38:34-580 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-580 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-580 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-580 INFO  Print game board
+2021-02-25 21:38:34-582 INFO  Check if game is ended
+2021-02-25 21:38:34-582 INFO  Check if game is Tie
+2021-02-25 21:38:34-582 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-582 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-582 INFO  Check if a player won the game
+2021-02-25 21:38:34-582 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-582 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-582 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-582 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-582 INFO  Set next player turn
+2021-02-25 21:38:34-582 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-582 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-583 INFO  Check if column 2 is Full
+2021-02-25 21:38:34-583 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-583 INFO  Check if column 2 is Full
+2021-02-25 21:38:34-583 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-583 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-583 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-583 INFO  Print game board
+2021-02-25 21:38:34-584 INFO  Check if game is ended
+2021-02-25 21:38:34-585 INFO  Check if game is Tie
+2021-02-25 21:38:34-585 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-585 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-585 INFO  Check if a player won the game
+2021-02-25 21:38:34-585 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-585 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-585 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-585 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-585 INFO  Set next player turn
+2021-02-25 21:38:34-585 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:34-585 INFO  Get column number from player RED
+2021-02-25 21:38:34-585 INFO  Check if column 5 is Full
+2021-02-25 21:38:34-585 INFO  Get number of disks in column 5
+2021-02-25 21:38:34-585 INFO  Check if column 5 is Full
+2021-02-25 21:38:34-585 INFO  Get number of disks in column 5
+2021-02-25 21:38:34-585 INFO  Get number of disks in column 5
+2021-02-25 21:38:34-585 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-585 INFO  Print game board
+2021-02-25 21:38:34-587 INFO  Check if game is ended
+2021-02-25 21:38:34-587 INFO  Check if game is Tie
+2021-02-25 21:38:34-587 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-587 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-587 INFO  Check if a player won the game
+2021-02-25 21:38:34-587 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-587 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-587 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-587 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-587 INFO  Set next player turn
+2021-02-25 21:38:34-587 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-588 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-588 INFO  Check if column 2 is Full
+2021-02-25 21:38:34-588 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-588 INFO  Check if column 2 is Full
+2021-02-25 21:38:34-588 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-588 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-588 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-588 INFO  Print game board
+2021-02-25 21:38:34-589 INFO  Check if game is ended
+2021-02-25 21:38:34-590 INFO  Check if game is Tie
+2021-02-25 21:38:34-590 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-590 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-590 INFO  Check if a player won the game
+2021-02-25 21:38:34-590 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-590 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-590 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-590 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-590 INFO  Set next player turn
+2021-02-25 21:38:34-590 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:34-590 INFO  Get column number from player RED
+2021-02-25 21:38:34-590 INFO  Check if column 1 is Full
+2021-02-25 21:38:34-590 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-594 INFO  Check if column 1 is Full
+2021-02-25 21:38:34-594 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-594 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-594 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-594 INFO  Print game board
+2021-02-25 21:38:34-596 INFO  Check if game is ended
+2021-02-25 21:38:34-596 INFO  Check if game is Tie
+2021-02-25 21:38:34-596 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-596 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-596 INFO  Check if a player won the game
+2021-02-25 21:38:34-596 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-596 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-596 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-596 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-596 INFO  Set next player turn
+2021-02-25 21:38:34-596 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-597 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-597 INFO  Check if column 4 is Full
+2021-02-25 21:38:34-597 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-597 INFO  Check if column 4 is Full
+2021-02-25 21:38:34-597 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-597 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-597 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-597 INFO  Print game board
+2021-02-25 21:38:34-599 INFO  Check if game is ended
+2021-02-25 21:38:34-599 INFO  Check if game is Tie
+2021-02-25 21:38:34-599 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-599 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-599 INFO  Check if a player won the game
+2021-02-25 21:38:34-599 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-599 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-599 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-599 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-599 INFO  Set next player turn
+2021-02-25 21:38:34-599 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:34-600 INFO  Get column number from player RED
+2021-02-25 21:38:34-600 INFO  Check if column 5 is Full
+2021-02-25 21:38:34-600 INFO  Get number of disks in column 5
+2021-02-25 21:38:34-600 INFO  Check if column 5 is Full
+2021-02-25 21:38:34-600 INFO  Get number of disks in column 5
+2021-02-25 21:38:34-600 INFO  Get number of disks in column 5
+2021-02-25 21:38:34-600 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-600 INFO  Print game board
+2021-02-25 21:38:34-601 INFO  Check if game is ended
+2021-02-25 21:38:34-601 INFO  Check if game is Tie
+2021-02-25 21:38:34-601 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-601 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-601 INFO  Check if a player won the game
+2021-02-25 21:38:34-601 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-601 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-601 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-601 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-601 INFO  Set next player turn
+2021-02-25 21:38:34-602 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-602 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-602 INFO  Check if column 6 is Full
+2021-02-25 21:38:34-602 INFO  Get number of disks in column 6
+2021-02-25 21:38:34-602 INFO  Check if column 6 is Full
+2021-02-25 21:38:34-602 INFO  Get number of disks in column 6
+2021-02-25 21:38:34-602 INFO  Get number of disks in column 6
+2021-02-25 21:38:34-602 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-602 INFO  Print game board
+2021-02-25 21:38:34-603 INFO  Check if game is ended
+2021-02-25 21:38:34-603 INFO  Check if game is Tie
+2021-02-25 21:38:34-603 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-603 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-603 INFO  Check if a player won the game
+2021-02-25 21:38:34-603 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-604 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-604 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-604 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-604 INFO  Set next player turn
+2021-02-25 21:38:34-604 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:34-604 INFO  Get column number from player RED
+2021-02-25 21:38:34-604 INFO  Check if column 1 is Full
+2021-02-25 21:38:34-604 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-604 INFO  Check if column 1 is Full
+2021-02-25 21:38:34-604 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-604 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-604 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-604 INFO  Print game board
+2021-02-25 21:38:34-605 INFO  Check if game is ended
+2021-02-25 21:38:34-605 INFO  Check if game is Tie
+2021-02-25 21:38:34-605 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-605 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-605 INFO  Check if a player won the game
+2021-02-25 21:38:34-605 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-605 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-605 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-606 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-606 INFO  Set next player turn
+2021-02-25 21:38:34-606 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-606 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-606 INFO  Check if column 2 is Full
+2021-02-25 21:38:34-606 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-606 INFO  Check if column 2 is Full
+2021-02-25 21:38:34-606 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-606 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-606 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-606 INFO  Print game board
+2021-02-25 21:38:34-607 INFO  Check if game is ended
+2021-02-25 21:38:34-607 INFO  Check if game is Tie
+2021-02-25 21:38:34-607 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-607 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-607 INFO  Check if a player won the game
+2021-02-25 21:38:34-607 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-607 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-607 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-607 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-607 INFO  Set next player turn
+2021-02-25 21:38:34-607 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:34-607 INFO  Get column number from player RED
+2021-02-25 21:38:34-607 INFO  Check if column 3 is Full
+2021-02-25 21:38:34-608 INFO  Get number of disks in column 3
+2021-02-25 21:38:34-608 INFO  Check if column 3 is Full
+2021-02-25 21:38:34-608 INFO  Get number of disks in column 3
+2021-02-25 21:38:34-608 INFO  Get number of disks in column 3
+2021-02-25 21:38:34-608 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-608 INFO  Print game board
+2021-02-25 21:38:34-609 INFO  Check if game is ended
+2021-02-25 21:38:34-609 INFO  Check if game is Tie
+2021-02-25 21:38:34-609 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-609 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-609 INFO  Check if a player won the game
+2021-02-25 21:38:34-609 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-609 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-609 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-609 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-609 INFO  Set next player turn
+2021-02-25 21:38:34-609 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-609 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-609 INFO  Check if column 1 is Full
+2021-02-25 21:38:34-609 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-609 INFO  Check if column 1 is Full
+2021-02-25 21:38:34-610 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-610 INFO  Get number of disks in column 1
+2021-02-25 21:38:34-610 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-610 INFO  Print game board
+2021-02-25 21:38:34-611 INFO  Check if game is ended
+2021-02-25 21:38:34-611 INFO  Check if game is Tie
+2021-02-25 21:38:34-611 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-611 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-611 INFO  Check if a player won the game
+2021-02-25 21:38:34-611 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-611 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-611 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-611 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-611 INFO  Set next player turn
+2021-02-25 21:38:34-611 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:34-611 INFO  Get column number from player RED
+2021-02-25 21:38:34-611 INFO  Check if column 2 is Full
+2021-02-25 21:38:34-611 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-611 INFO  Check if column 2 is Full
+2021-02-25 21:38:34-611 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-611 INFO  Get number of disks in column 2
+2021-02-25 21:38:34-611 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-611 INFO  Print game board
+2021-02-25 21:38:34-612 INFO  Check if game is ended
+2021-02-25 21:38:34-612 INFO  Check if game is Tie
+2021-02-25 21:38:34-612 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-612 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-612 INFO  Check if a player won the game
+2021-02-25 21:38:34-612 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-612 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-612 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-612 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-612 INFO  Set next player turn
+2021-02-25 21:38:34-612 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-613 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-613 INFO  Check if column 4 is Full
+2021-02-25 21:38:34-613 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-613 INFO  Check if column 4 is Full
+2021-02-25 21:38:34-613 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-613 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-613 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-613 INFO  Print game board
+2021-02-25 21:38:34-613 INFO  Check if game is ended
+2021-02-25 21:38:34-613 INFO  Check if game is Tie
+2021-02-25 21:38:34-613 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-613 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-613 INFO  Check if a player won the game
+2021-02-25 21:38:34-614 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-614 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-614 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-614 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-614 INFO  Set next player turn
+2021-02-25 21:38:34-614 INFO  Call playerIntroduce from PlayerRed class
+2021-02-25 21:38:34-614 INFO  Get column number from player RED
+2021-02-25 21:38:34-614 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-614 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-614 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-614 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-614 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-614 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-614 INFO  Print game board
+2021-02-25 21:38:34-615 INFO  Check if game is ended
+2021-02-25 21:38:34-615 INFO  Check if game is Tie
+2021-02-25 21:38:34-615 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-615 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-615 INFO  Check if a player won the game
+2021-02-25 21:38:34-615 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-615 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-615 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-615 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-615 INFO  Set next player turn
+2021-02-25 21:38:34-615 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-615 INFO  Get column number from player GREEN
+2021-02-25 21:38:34-615 INFO  Check if column 4 is Full
+2021-02-25 21:38:34-615 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-615 INFO  Check if column 4 is Full
+2021-02-25 21:38:34-615 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-615 INFO  Get number of disks in column 4
+2021-02-25 21:38:34-615 INFO  Successfully putDiskInColumn
+2021-02-25 21:38:34-615 INFO  Print game board
+2021-02-25 21:38:34-616 INFO  Check if game is ended
+2021-02-25 21:38:34-617 INFO  Check if game is Tie
+2021-02-25 21:38:34-617 INFO  Check if column 0 is Full
+2021-02-25 21:38:34-617 INFO  Get number of disks in column 0
+2021-02-25 21:38:34-617 INFO  Check if a player won the game
+2021-02-25 21:38:34-617 INFO  Check if 4 disks are in a row line
+2021-02-25 21:38:34-617 INFO  Check if 4 disks are in a column line
+2021-02-25 21:38:34-617 INFO  Game ends with 4 disks in a column line
+2021-02-25 21:38:34-618 INFO  Check if 4 disks are in a main diagonal line
+2021-02-25 21:38:34-618 INFO  Check if 4 disks are in a anti diagonal line
+2021-02-25 21:38:34-618 INFO  Call playerIntroduce from PlayerGreen class
+2021-02-25 21:38:34-618 INFO  End Game
+2021-02-25 21:38:36-305 INFO  End APP
